@@ -1,5 +1,5 @@
 # <Kumabots> - <2002>
-<Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
+<hola hola hola hola hola>
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
