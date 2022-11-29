@@ -7,7 +7,7 @@
 
 
 ## Integrantes
-- <Tomas Nazar> - <Facultad>
+- <Tomas Naza> - <Facultad>
 - <Valentina Trujillo> - <Facultad>
 - <Benjamín Quiroz > - <Facultad>
 - <Matías Zúñiga> - <Facultad>
