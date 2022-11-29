@@ -1,7 +1,5 @@
 # <Kumabots> - <2002>
-<descripción
 <Proyecto semestral del curso CD2201 Módulo Interdisciplinario - Battlebots: Tu primera máquina de pelea.>
-<Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
 ![Robot Kumabell](/multimedia/Foto Kumabell.png)
 
