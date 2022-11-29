@@ -1,26 +1,27 @@
 # <Kumabots> - <2002>
-<hola hola hola hola hola>
+<descripción
+<Proyecto semestral del curso CD2201 Módulo Interdisciplinario - Battlebots: Tu primera máquina de pelea.>
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Kumabell](/multimedia/Foto Kumabell.png)
 
 
 
 ## Integrantes
-- <Tomas Naza> - <Facultad>
-- <Valentina Trujillo> - <Facultad>
-- <Benjamín Quiroz > - <Facultad>
-- <Matías Zúñiga> - <Facultad>
+- <Tomas Naza> - <FCFM>
+- <Valentina Trujillo> - <FCFM>
+- <Benjamín Quiroz > - <FCFM>
+- <Matías Zúñiga> - <FCFM>
 
 
 ## Descripción del proyecto
 
 ### Estrategia utilizada
 #### Ofensiva
-<Explicar brevemente el arma utilizada.>
+<El arma consta de un cilindro hueco de metal que gira hacia adentro. El cilindro tiene pernos atornillados por el exterior. El ataque es frontal y al choque>
 
 #### Defensiva
-<Explicar el modo de defensa del robot.>
+<El robot cuenta con una malla AHOSA de metal desplegado, que lo protege de ataques laterales, traseros y transversales.>
 
 ### Diagrama funcional
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
