@@ -6,7 +6,7 @@
 
 
 ## Integrantes
-- <Tomas Naza> - <FCFM>
+- <Tomas Nazar> - <FCFM>
 - <Valentina Trujillo> - <FCFM>
 - <Benjamín Quiroz > - <FCFM>
 - <Matías Zúñiga> - <FCFM>
